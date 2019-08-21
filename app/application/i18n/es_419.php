@@ -59,7 +59,7 @@ $_L['transaction_update_successful'] = 'Transacción actualizada con éxito';
 $_L['Number_of_Payment'] = 'Número de pago';
 $_L['Frequency'] = 'Frecuencia';
 $_L['Monthly'] = 'Mensual';
-$_L['Weekly'] = 'Semana';
+$_L['Weekly'] = 'Semanal';
 $_L['Bi_Weekly'] = 'Quincenal';
 $_L['Everyday'] = 'Diaria';
 $_L['Every_30_Days'] = 'Cada 30 Días';
@@ -77,7 +77,7 @@ $_L['Manage'] = 'Gestionar';
 $_L['Confirm'] = 'Confirmar';
 $_L['Enter_Transaction'] = 'Introducir Transacción';
 $_L['Payment_Cleared'] = 'Payment Cleared';
-$_L['an_error_occured'] = 'Ha ocurrido un erro';
+$_L['an_error_occured'] = 'Ha ocurrido un error';
 $_L['name_exist_error'] = 'El nombre ya existe';
 $_L['account_title_length_error'] = 'El nombre de la Cuenta ha de tener entre 3 y 100 caracteres';
 $_L['tr_delete_warning'] = 'No es posible deshacer la eliminación de una Transacción. El Balance asociado a la Cuenta será actualizado. ';
@@ -815,23 +815,23 @@ $_L['Or Click to Upload'] = 'Or Click to Upload';
 $_L['Importing'] = 'Importing';
 $_L['Import Contacts'] = 'Import Contacts';
 $_L['Download Sample File'] = 'Download Sample File';
-$_L['Group'] = 'Group';
-$_L['Groups'] = 'Groups';
-$_L['Add New Group'] = 'Add New Group';
-$_L['Group Name'] = 'Group Name';
-$_L['Group Deleted Successfully'] = 'Group Deleted Successfully';
-$_L['Welcome Email'] = 'Welcome Email';
-$_L['Client:Client Signup Email'] = 'Client Signup Email';
-$_L['Send Client Signup Email'] = 'Set Yes to send Client Signup Email.';
-$_L['Profile'] = 'Profile';
-$_L['Download'] = 'Download';
+$_L['Group'] = 'Grupo';
+$_L['Groups'] = 'Grupos';
+$_L['Add New Group'] = 'Agregar Nuevo grupop';
+$_L['Group Name'] = 'Nombre del grupo';
+$_L['Group Deleted Successfully'] = 'Grupo borrado con exito';
+$_L['Welcome Email'] = 'Email de Bienvenida';
+$_L['Client:Client Signup Email'] = 'Email de Creacion de Cuenta';
+$_L['Send Client Signup Email'] = 'Seleccione SI si desea enviar correo de creacion de cuenta.';
+$_L['Profile'] = 'Perfil';
+$_L['Download'] = 'Descargar';
 $_L['Legacy'] = 'Legacy';
-$_L['New'] = 'New';
-$_L['Default Landing Page'] = 'Default Landing Page';
-$_L['Admin Login'] = 'Admin Login';
-$_L['Client Login'] = 'Client Login';
-$_L['Recent Quotes'] = 'Recent Quotes';
-$_L['Recent Transactions'] = 'Recent Transactions';
+$_L['New'] = 'Nuevo';
+$_L['Default Landing Page'] = 'Lading Page por defecto';
+$_L['Admin Login'] = 'Login de Empleados';
+$_L['Client Login'] = 'Login de Cliente';
+$_L['Recent Quotes'] = 'Presupuestos Recientes';
+$_L['Recent Transactions'] = 'Transacciones Recientes';
 
 # V 4.2.0
 
@@ -852,7 +852,7 @@ $_L['Attach PDF'] = 'Attach PDF?';
 
 # v 4.4.0
 
-$_L['Cash Flow'] = 'Cash Flow';
+$_L['Cash Flow'] = 'Flujo de Ingresos';
 
 //Month Names short
 $_L['Jan'] = 'Jan';
@@ -937,8 +937,8 @@ $_L['Companies'] = 'Compañias';
 $_L['Currencies'] = 'Monedas';
 $_L['Permission'] = 'Permisos';
 $_L['Staff'] = 'Staff';
-$_L['Roles'] = 'Roles';
-$_L['New Role'] = 'Nuevo Rol';
+$_L['Roles'] = 'Cargos';
+$_L['New Role'] = 'Nuevo Cargo';
 $_L['Role name is required'] = 'Nombre de Rol es Requerido';
 $_L['Tasks'] = 'Tareas';
 $_L['Calendar'] = 'Calendario';
@@ -957,30 +957,30 @@ $_L['Company Name is required'] = 'No puede faltar Nombre de Compañia.';
 $_L['Event Name'] = 'Nombre de Evento';
 $_L['Priority'] = 'Prioridad';
 $_L['Owner'] = 'Dueño';
-$_L['Start Date'] = 'Start Date';
-$_L['End Date'] = 'End Date';
-$_L['Start Time'] = 'Start Time';
-$_L['End Time'] = 'End Time';
-$_L['All day event'] = 'All day event';
-$_L['Related Contacts'] = 'Related Contacts';
-$_L['Add Event'] = 'Add Event';
+$_L['Start Date'] = 'Fecha de Inicio';
+$_L['End Date'] = 'Fecha de Termina';
+$_L['Start Time'] = 'Hora de inicio';
+$_L['End Time'] = 'Hora que Termina';
+$_L['All day event'] = 'Evento de Todo el dia.';
+$_L['Related Contacts'] = 'Contactos Relacionados';
+$_L['Add Event'] = 'Crear Evento';
 $_L['Color'] = 'Color';
-$_L['Image'] = 'Image';
-$_L['Create'] = 'Create';
+$_L['Image'] = 'Imagen';
+$_L['Create'] = 'Crear';
 $_L['Avatar'] = 'Avatar';
-$_L['Attach File'] = 'Attach File';
-$_L['Drop File Here'] = 'Drop File Here';
-$_L['Click to Upload'] = 'Or Click to Upload';
+$_L['Attach File'] = 'Agregar Archivo';
+$_L['Drop File Here'] = 'Arrastrar Archivo Acá';
+$_L['Click to Upload'] = 'O Haz click para Subir';
 
 # Build 4580
-$_L['Import'] = 'Import';
-$_L['Export'] = 'Export';
+$_L['Import'] = 'Importar';
+$_L['Export'] = 'Exportar';
 $_L['Phone number already exist'] = 'Numero Telefonico ya Existe.';
 
 # Build 4590
 $_L['Favicon'] = 'Favicon';
-$_L['Upload'] = 'Upload';
-$_L['Remember me'] = 'Keep me signed in';
+$_L['Upload'] = 'Cargar';
+$_L['Remember me'] = 'Mantenerme Loggeado';
 
 # Build 4591
 
@@ -1000,37 +1000,37 @@ $_L['Your last login was'] = 'Your last login was';
 
 # Build 4596
 
-$_L['Documents'] = 'Documents';
-$_L['List All Orders'] = 'List All Orders';
-$_L['Add New Order'] = 'Add New Order';
+$_L['Documents'] = 'Documentos';
+$_L['List All Orders'] = 'Mostrar Todas las Ordenes';
+$_L['Add New Order'] = 'Crear una Nueva Orden';
 $_L['Order'] = 'Order';
 $_L['Product_Service'] = 'Product/Service';
 $_L['Billing Cycle'] = 'Billing Cycle';
 $_L['Free'] = 'Free';
-$_L['One Time'] = 'One Time';
-$_L['Monthly'] = 'Monthly';
-$_L['Quarterly'] = 'Quarterly';
-$_L['Semi-Annually'] = 'Semi-Annually';
-$_L['Annually'] = 'Annually';
-$_L['Biennially'] = 'Biennially';
-$_L['Triennially'] = 'Triennially';
-$_L['Pending'] = 'Pending';
-$_L['Generate Invoice'] = 'Generate Invoice';
-$_L['Item Not Found'] = 'Item Not Found';
+$_L['One Time'] = 'Una Vez';
+$_L['Monthly'] = 'Mensual';
+$_L['Quarterly'] = 'Quincenal';
+$_L['Semi-Annually'] = 'Semi-Anual';
+$_L['Annually'] = 'Anual';
+$_L['Biennially'] = 'Bianual';
+$_L['Triennially'] = 'Trianual';
+$_L['Pending'] = 'Pendienteg';
+$_L['Generate Invoice'] = 'Generar Factura';
+$_L['Item Not Found'] = 'Item no encontrado';
 $_L['Available Module for this Order'] = 'Available Module for this Order';
-$_L['Order Number'] = 'Order Number';
-$_L['New Document'] = 'New Document';
-$_L['Title'] = 'Title'; # Document Name / Title
+$_L['Order Number'] = 'Numero de Orden';
+$_L['New Document'] = 'Nuevo Documento';
+$_L['Title'] = 'Nombre de Documento'; # Document Name / Title
 $_L['Server Config'] = 'Server Config';
-$_L['Upload Maximum Size'] = 'Upload Maximum Size';
-$_L['POST Maximum Size'] = 'POST Maximum Size';
-$_L['Uploaded Successfully'] = 'Uploaded Successfully';
-$_L['Secure Download Link'] = 'Secure Download Link';
-$_L['Files'] = 'Files';
-$_L['Assign File'] = 'Assign File';
-$_L['Activation Message'] = 'Activation Message';
-$_L['Email Sent'] = 'Email Sent';
-$_L['Downloads'] = 'Downloads';
+$_L['Upload Maximum Size'] = 'Tamaño Maximo de Subida';
+$_L['POST Maximum Size'] = 'Tamaño Maximo de POST';
+$_L['Uploaded Successfully'] = 'Subido Correctamente';
+$_L['Secure Download Link'] = 'Enlace de Descarga';
+$_L['Files'] = 'Archivoss';
+$_L['Assign File'] = 'Asignar Archivo';
+$_L['Activation Message'] = 'Mensaje de Activacion';
+$_L['Email Sent'] = 'Email Enviado';
+$_L['Downloads'] = 'Descargas';
 
 # Build 4597
 
