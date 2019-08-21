@@ -334,7 +334,7 @@ body.light-background {
 }
 
 .text-primary {
-    color: #2196f3
+    color: #4A569D
 }
 
 .text-info {
@@ -697,12 +697,12 @@ ul {
 }
 
 .btn.btn-success {
-    background: #2196f3;
-    border: 1px solid #2196f3
+    background: #4A569D;
+    border: 1px solid #4A569D
 }
 
 .btn.btn-success.active, .btn.btn-success:active, .btn.btn-success:focus, .btn.btn-success:hover {
-    background: #2196f3;
+    background: #4A569D;
     transition: all .3s ease;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;

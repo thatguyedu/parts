@@ -534,8 +534,8 @@ body.fixed-sidebar.mini-navbar .navbar-default .nav li a span {
 }
 
 .btn-primary {
-    background-color: #2196f3;
-    border-color: #2196f3;
+    background-color: #4A569D;
+    border-color: #4A569D;
     color: #FFFFFF;
 }
 
@@ -544,8 +544,8 @@ body.fixed-sidebar.mini-navbar .navbar-default .nav li a span {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    background: #2196f3;
-    border-color: #2196f3;
+    background: #4A569D;
+    border-color: #4A569D;
     color: #FFFFFF;
     box-shadow: 0 3px 6px rgba(0,0,0,.16),0 3px 6px rgba(0,0,0,.23);
 }
@@ -1248,8 +1248,8 @@ button.dim:active:before {
 a.list-group-item.active,
 a.list-group-item.active:hover,
 a.list-group-item.active:focus {
-    background-color: #2196f3;
-    border-color: #2196f3;
+    background-color: #4A569D;
+    border-color: #4A569D;
     color: #FFFFFF;
     z-index: 2;
 }
@@ -1410,7 +1410,7 @@ select:not([multiple]) {
 }
 
 .form-control:focus {
-    border-color: #2196f3;
+    border-color: #4A569D;
 }
 
 .has-success .form-control {

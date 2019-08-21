@@ -14823,8 +14823,8 @@ body.fixed-sidebar.mini-navbar .navbar-default .nav li a span {
 }
 
 .btn-primary {
-    background-color: #2196f3;
-    border-color: #2196f3;
+    background-color: #4A569D;
+    border-color: #4A569D;
     color: #fff
 }
 
@@ -14833,8 +14833,8 @@ body.fixed-sidebar.mini-navbar .navbar-default .nav li a span {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    background: #2196f3;
-    border-color: #2196f3;
+    background: #4A569D;
+    border-color: #4A569D;
     color: #fff;
     box-shadow: 0 3px 6px rgba(0, 0, 0, .16), 0 3px 6px rgba(0, 0, 0, .23)
 }
@@ -15530,8 +15530,8 @@ button.dim:active:before {
 a.list-group-item.active,
 a.list-group-item.active:hover,
 a.list-group-item.active:focus {
-    background-color: #2196f3;
-    border-color: #2196f3;
+    background-color: #4A569D;
+    border-color: #4A569D;
     color: #fff;
     z-index: 2
 }
@@ -15681,7 +15681,7 @@ select:not([multiple]) {
 }
 
 .form-control:focus {
-    border-color: #2196f3
+    border-color: #4A569D
 }
 
 .has-success .form-control {
@@ -20033,17 +20033,17 @@ fieldset[disabled] .form-material.floating>label {
 
 .form-material>.form-control:focus {
     background-color: transparent;
-    -webkit-box-shadow: 0 2px 0 #2196f3;
-    box-shadow: 0 2px 0 #2196f3
+    -webkit-box-shadow: 0 2px 0 #4A569D;
+    box-shadow: 0 2px 0 #4A569D
 }
 
 .form-material>.form-control:focus+label {
-    color: #2196f3
+    color: #4A569D
 }
 
 .form-material>.form-control:focus~.input-group-addon {
-    -webkit-box-shadow: 0 2px 0 #2196f3;
-    box-shadow: 0 2px 0 #2196f3
+    -webkit-box-shadow: 0 2px 0 #4A569D;
+    box-shadow: 0 2px 0 #4A569D
 }
 
 .form-material>.form-control:focus+label,
@@ -20336,7 +20336,7 @@ fieldset[disabled] .form-material.floating>label {
 .md-btn-primary:active,
 .md-btn-primary:focus,
 .md-btn-primary:hover {
-    background: #2196f3;
+    background: #4A569D;
     color: #fff
 }
 
@@ -20378,7 +20378,7 @@ fieldset[disabled] .form-material.floating>label {
 
 .md-preloader svg circle {
     fill: none;
-    stroke: #2196f3;
+    stroke: #4A569D;
     stroke-linecap: round;
     -webkit-animation: arc 1.2s cubic-bezier(.4, 0, .2, 1) infinite;
     animation: arc 1.2s cubic-bezier(.4, 0, .2, 1) infinite
@@ -20687,7 +20687,7 @@ a.waves-effect .waves-ripple {
 }
 
 .md-fab.md-fab-primary {
-    background: #2196f3
+    background: #4A569D
 }
 
 .md-fab.md-fab-primary>i {
@@ -20713,7 +20713,7 @@ a.waves-effect .waves-ripple {
 
 
 .dashboard-stat.blue {
-    background-color: #2196f3
+    background-color: #4A569D
 }
 
 .dashboard-stat.purple {

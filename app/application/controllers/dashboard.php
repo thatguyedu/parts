@@ -72,7 +72,7 @@ $jsvar = '
         var c_month = \''.ib_lan_get_line(date('F')).'\';
         var c_year = \''.date('Y').'\';
         
-        var ib_graph_primary_color = \'#2196f3\';
+        var ib_graph_primary_color = \'#4A569D\';
         var ib_graph_secondary_color = \'#eb3c00\';
 
 
