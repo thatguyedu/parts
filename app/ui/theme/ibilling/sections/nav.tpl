@@ -1,6 +1,6 @@
 <ul class="nav" id="side-menu">
 
-    <li class="nav-header">
+    <!--<li class="nav-header">
         <div class="dropdown profile-element"> <span>
 
                 {if $user['img'] eq 'gravatar'}
@@ -22,7 +22,7 @@
                 <li><a href="{$_url}logout/">{$_L['Logout']}</a></li>
             </ul>
         </div>
-    </li>
+    </li>-->
 
     {$admin_extra_nav[0]}
 
