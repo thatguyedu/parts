@@ -534,8 +534,8 @@ body.fixed-sidebar.mini-navbar .navbar-default .nav li a span {
 }
 
 .btn-primary {
-    background-color: #4A569D;
-    border-color: #4A569D;
+    background-color: #c31432;
+    border-color: #c31432;
     color: #FFFFFF;
 }
 
@@ -544,8 +544,8 @@ body.fixed-sidebar.mini-navbar .navbar-default .nav li a span {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    background: #4A569D;
-    border-color: #4A569D;
+    background: #c31432;
+    border-color: #c31432;
     color: #FFFFFF;
     box-shadow: 0 3px 6px rgba(0,0,0,.16),0 3px 6px rgba(0,0,0,.23);
 }
@@ -1248,8 +1248,8 @@ button.dim:active:before {
 a.list-group-item.active,
 a.list-group-item.active:hover,
 a.list-group-item.active:focus {
-    background-color: #4A569D;
-    border-color: #4A569D;
+    background-color: #c31432;
+    border-color: #c31432;
     color: #FFFFFF;
     z-index: 2;
 }
@@ -1343,7 +1343,7 @@ a.list-group-item.active:focus {
 
 /* PACE */
 .pace .pace-progress {
-    background: #eb3c00;
+    background: #4776E6;
     position: fixed;
     z-index: 2000;
     top: 0px;
@@ -1410,7 +1410,7 @@ select:not([multiple]) {
 }
 
 .form-control:focus {
-    border-color: #4A569D;
+    border-color: #c31432;
 }
 
 .has-success .form-control {
@@ -2704,7 +2704,7 @@ white theme  //Razib
 }
 
 .nav > li.active, .nav > li:focus {
-    background: none repeat scroll 0 0 #eb3c00;
+    background: none repeat scroll 0 0 #4776E6;
     /*background: none repeat scroll 0 0 #f58220;*/
     outline: none;
 }
@@ -3091,7 +3091,7 @@ white theme  //Razib
 }
 
 .spinner > div {
-    background-color: #eb3c00;
+    background-color: #4776E6;
     height: 100%;
     width: 6px;
     display: inline-block;
@@ -3169,7 +3169,7 @@ body.boxed-layout #wrapper {
 }
 
 .nav > li.active {
-    border-left: 2px solid #eb3c00;
+    border-left: 2px solid #4776E6;
 }
 
 .nav > li.hover {
@@ -3183,7 +3183,7 @@ body.boxed-layout #wrapper {
 }
 
 .navbar-default .nav > li > a:focus {
-    background: none repeat scroll 0 0 #eb3c00;
+    background: none repeat scroll 0 0 #4776E6;
     color: white;
     outline: none;
 }

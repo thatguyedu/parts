@@ -14823,8 +14823,8 @@ body.fixed-sidebar.mini-navbar .navbar-default .nav li a span {
 }
 
 .btn-primary {
-    background-color: #4A569D;
-    border-color: #4A569D;
+    background-color: #c31432;
+    border-color: #c31432;
     color: #fff
 }
 
@@ -14833,8 +14833,8 @@ body.fixed-sidebar.mini-navbar .navbar-default .nav li a span {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    background: #4A569D;
-    border-color: #4A569D;
+    background: #c31432;
+    border-color: #c31432;
     color: #fff;
     box-shadow: 0 3px 6px rgba(0, 0, 0, .16), 0 3px 6px rgba(0, 0, 0, .23)
 }
@@ -15530,8 +15530,8 @@ button.dim:active:before {
 a.list-group-item.active,
 a.list-group-item.active:hover,
 a.list-group-item.active:focus {
-    background-color: #4A569D;
-    border-color: #4A569D;
+    background-color: #c31432;
+    border-color: #c31432;
     color: #fff;
     z-index: 2
 }
@@ -15619,7 +15619,7 @@ a.list-group-item.active:focus {
 }
 
 .pace .pace-progress {
-    background: #eb3c00;
+    background: #4776E6;
     position: fixed;
     z-index: 2000;
     top: 0;
@@ -15681,7 +15681,7 @@ select:not([multiple]) {
 }
 
 .form-control:focus {
-    border-color: #4A569D
+    border-color: #c31432
 }
 
 .has-success .form-control {
@@ -16916,7 +16916,7 @@ body.skin-1 {
 
 .nav>li.active,
 .nav>li:focus {
-    background: none repeat scroll 0 0 #eb3c00;
+    background: none repeat scroll 0 0 #4776E6;
     outline: 0
 }
 
@@ -17274,7 +17274,7 @@ body.skin-1 {
 }
 
 .spinner>div {
-    background-color: #eb3c00;
+    background-color: #4776E6;
     height: 100%;
     width: 6px;
     display: inline-block;
@@ -17357,7 +17357,7 @@ body.boxed-layout #wrapper {
 }
 
 .nav>li.active {
-    border-left: 2px solid #eb3c00
+    border-left: 2px solid #4776E6
 }
 
 .navbar-default .nav>li>a:hover {
@@ -17367,7 +17367,7 @@ body.boxed-layout #wrapper {
 }
 
 .navbar-default .nav>li>a:focus {
-    background: none repeat scroll 0 0 #eb3c00;
+    background: none repeat scroll 0 0 #4776E6;
     color: white;
     outline: 0
 }
@@ -19647,7 +19647,7 @@ pre {
 }
 
 .red {
-    color: #eb3c00
+    color: #4776E6
 }
 
 input.parsley-success,
@@ -20033,17 +20033,17 @@ fieldset[disabled] .form-material.floating>label {
 
 .form-material>.form-control:focus {
     background-color: transparent;
-    -webkit-box-shadow: 0 2px 0 #4A569D;
-    box-shadow: 0 2px 0 #4A569D
+    -webkit-box-shadow: 0 2px 0 #c31432;
+    box-shadow: 0 2px 0 #c31432
 }
 
 .form-material>.form-control:focus+label {
-    color: #4A569D
+    color: #c31432
 }
 
 .form-material>.form-control:focus~.input-group-addon {
-    -webkit-box-shadow: 0 2px 0 #4A569D;
-    box-shadow: 0 2px 0 #4A569D
+    -webkit-box-shadow: 0 2px 0 #c31432;
+    box-shadow: 0 2px 0 #c31432
 }
 
 .form-material>.form-control:focus+label,
@@ -20336,7 +20336,7 @@ fieldset[disabled] .form-material.floating>label {
 .md-btn-primary:active,
 .md-btn-primary:focus,
 .md-btn-primary:hover {
-    background: #4A569D;
+    background: #c31432;
     color: #fff
 }
 
@@ -20378,7 +20378,7 @@ fieldset[disabled] .form-material.floating>label {
 
 .md-preloader svg circle {
     fill: none;
-    stroke: #4A569D;
+    stroke: #c31432;
     stroke-linecap: round;
     -webkit-animation: arc 1.2s cubic-bezier(.4, 0, .2, 1) infinite;
     animation: arc 1.2s cubic-bezier(.4, 0, .2, 1) infinite
@@ -20687,7 +20687,7 @@ a.waves-effect .waves-ripple {
 }
 
 .md-fab.md-fab-primary {
-    background: #4A569D
+    background: #c31432
 }
 
 .md-fab.md-fab-primary>i {
@@ -20713,7 +20713,7 @@ a.waves-effect .waves-ripple {
 
 
 .dashboard-stat.blue {
-    background-color: #4A569D
+    background-color: #c31432
 }
 
 .dashboard-stat.purple {

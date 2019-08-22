@@ -1706,7 +1706,7 @@ if($config['build'] <= 4670){
 
 
     add_option('graph_primary_color','2196f3');
-    add_option('graph_secondary_color','eb3c00');
+    add_option('graph_secondary_color','4776E6');
 
     add_option('expense_type_1','Personal');
 
